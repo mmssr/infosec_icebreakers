@@ -1,5 +1,4 @@
-# infosec_icebreakers
-# list of random topics to generate discussion among teams
-Infosec Icebreaker Topics
+# infosec_icebreakers  
+Infosec discussion topics to generate discussion among teammates  
 
 How could we enumerate AD security groups without elevated permissions?  
